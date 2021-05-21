@@ -1,7 +1,7 @@
 title: RickyNite.GitHub.io
-description: Ricky Nite is a hardware developer interested in adapting open-source software tools and techniques for hardware design, test automation and documentation.  
+description: I am a hardware developer interested in adapting open-source software tools and techniques for hardware design, test automation and documentation.  
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
