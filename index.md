@@ -9,5 +9,7 @@
 
 # Links
 
-- [JupyterLite](https://jupyterlite.readthedocs.io) example: [GitHub](https://rickynite.github.io/jupyterlite) | [GitLab](https://ricky.nite.gitlab.io/jupyterlite)
-- [M2HTML](https://github.com/gllmflndn/m2html) example: [GitLab](https://ricky.nite.gitlab.io/m2html)
+- [JupyterLite](https://jupyterlite.readthedocs.io) 
+  example: [@GitHub](https://rickynite.github.io/jupyterlite),
+           [@GitLab](https://ricky.nite.gitlab.io/jupyterlite)
+- [M2HTML](https://github.com/gllmflndn/m2html) example: [@GitLab](https://ricky.nite.gitlab.io/m2html)
